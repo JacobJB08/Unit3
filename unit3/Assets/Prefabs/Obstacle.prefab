@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 145980, guid: 84a102c1bf03d0a43bd4b342185c2811, type: 3}
       propertyPath: m_Name
-      value: obstacle Variant
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 145980, guid: 84a102c1bf03d0a43bd4b342185c2811, type: 3}
       propertyPath: m_TagString
@@ -97,8 +97,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.3303051, y: 2.2086914, z: 3.169084}
-  m_Center: {x: -0.05182457, y: 0.60434604, z: -0.0021392703}
+  m_Size: {x: 0.3303051, y: 1.7056857, z: 3.169084}
+  m_Center: {x: -0.05182457, y: 0.8558487, z: -0.00213933}
 --- !u!114 &7329399167028459307
 MonoBehaviour:
   m_ObjectHideFlags: 0
